@@ -1,1 +1,1 @@
-# SeedLabs-2.0-Solutions-
+# SeedLabs 2.0 Solutions
